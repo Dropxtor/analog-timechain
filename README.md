@@ -7,8 +7,8 @@ Disque : 300 GB SSD NVME
 Debit : 500 Mo/s
 ```
 __Vous pouvez acheter un VPS chez__ :
-[Contabo](https://contabo.com/en/vps/) (Carte de crédit/PayPal)
-PQ Hosting (Carte de crédit/Paiement cryptomonnaie accepté)
+- [Contabo](https://contabo.com/en/vps/) (Carte de crédit/PayPal)
+- PQ Hosting (Carte de crédit/Paiement cryptomonnaie accepté)
 
 # Configuration du portefeuille et demande d'eau
 
