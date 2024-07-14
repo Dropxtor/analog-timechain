@@ -24,7 +24,7 @@ __Vous pouvez acheter un VPS chez__ :
 Ouvrez Termius / Putty
 - Copiez et collez la commande suivante :
 ```bash
-wget https://raw.githubusercontent.com/Dropxtor/analog-timechain-node/main/analog.sh && chmod +x analog.sh && ./analog.sh
+wget https://raw.githubusercontent.com/Dropxtor/analog-timechain/main/analog.sh && chmod +x analog.sh && ./analog.sh
 ```
 - Vous pouvez vérifier les journaux du nœud analog en utilisant cette commande :
 ```bash
